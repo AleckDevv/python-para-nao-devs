@@ -43,7 +43,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.3 }}
             className="flex flex-col sm:flex-row justify-center items-center gap-4"
           >
-            <a href="https://pay.kiwify.com.br/UEmKZkv" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto px-8 py-4 bg-brand-yellow hover:bg-yellow-400 text-brand-blue font-bold rounded-xl text-lg transition-all duration-200 transform hover:-translate-y-1 hover:shadow-xl hover:shadow-brand-yellow/20 flex items-center justify-center gap-2 group">
+            <a href="https://pay.kiwify.com.br/zDuIf3s" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto px-8 py-4 bg-brand-yellow hover:bg-yellow-400 text-brand-blue font-bold rounded-xl text-lg transition-all duration-200 transform hover:-translate-y-1 hover:shadow-xl hover:shadow-brand-yellow/20 flex items-center justify-center gap-2 group">
               Quero Automatizar Minha Rotina
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </a>
